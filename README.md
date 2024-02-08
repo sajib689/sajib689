@@ -1,5 +1,7 @@
- <img  width="500" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="">
+<div align="center">
+        <img  src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="">
 
+    </div>
     <h1 align="center">Hi 👋, I'm Md Sajib Hossen</h1>
 <h3 align="center">Web Developer & Designer from Jashore, Khulna, Bangladesh</h3>
 <div align="center">
