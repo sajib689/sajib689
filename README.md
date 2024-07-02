@@ -8,8 +8,8 @@
 <div align="center">
   <img width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" />
 </div>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
+<h2 align="center">🚀 Some Tools I Use</h2>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="25" height="25" />
