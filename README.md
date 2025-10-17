@@ -37,12 +37,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Car Doctor](https://admirable-dodol-fb69fd.netlify.app/)
-- 🌱 I’m currently learning **MERN Stack Development**
-- 👨‍💻 All of my projects are available at [https://jovial-figolla-eaecf8.netlify.app/](https://jovial-figolla-eaecf8.netlify.app/)
-- 💬 Ask me about **MERN**
+
 - 📫 How to reach me: **sajibbabu751@gmail.com**
-- 📄 Know about my experiences [-](-)
+- 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
