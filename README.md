@@ -1,156 +1,188 @@
 <div align="center">
 
-  <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="Frontend Development" width="480"/>
+# Md. Sajib Hossen
 
-# Hi 👋, I'm Md. Sajib Hossen
+### Full Stack Developer
 
-### Frontend Developer • React.js • Next.js • TypeScript
+Building scalable, production-ready web applications with modern JavaScript technologies.
 
-Building modern, responsive, and scalable web applications with clean and maintainable code.
+<br />
 
-  <p>
-    <a href="https://github.com/sajib689">
-      <img src="https://komarev.com/ghpvc/?username=sajib689&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-  </p>
+<a href="https://github.com/sajib689">
+  <img src="https://komarev.com/ghpvc/?username=sajib689&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-* 💼 Frontend Developer at **SM Technology**
-* ⚛️ Focused on **React.js & Next.js**
-* 🧩 Building scalable applications with **TypeScript**
-* 🎨 Passionate about clean UI, responsive design, and great user experiences
-* 🚀 Interested in **Full-Stack Development**
-* 📚 Currently improving my **DSA & software engineering fundamentals**
-* 🌍 Open to **remote opportunities and freelance projects**
+I'm a Full Stack Developer focused on building modern, scalable, and maintainable web applications.
+
+My primary experience is with the JavaScript/TypeScript ecosystem, working across frontend, backend, APIs, databases, authentication, and application architecture.
+
+* Full Stack Web Development
+* Modern React & Next.js Applications
+* REST API Development & Integration
+* Database Design & ORM
+* Authentication & Authorization
+* Admin Dashboards & Business Applications
+* Responsive and Accessible UI
+* Clean, reusable, and maintainable code
+* Git-based development workflows
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Stack
 
 ### Frontend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" />
 </p>
 
-### State Management & UI
+`React.js` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Ant Design`
+
+### State Management & Data
 
 <p>
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" height="40" alt="Redux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="38" height="38" alt="Redux" />
 </p>
 
-`Redux` • `RTK Query` • `Ant Design` • `Shadcn UI` • `Bootstrap` • `React Router`
+`Redux Toolkit` · `RTK Query` · `REST APIs` · `Axios`
 
-### Backend & Database
+### Backend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/img/logo.svg" width="40" height="40" alt="Prisma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" height="38" alt="Express.js" />
 </p>
 
-`Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `PostgreSQL` • `Prisma ORM`
+`Node.js` · `Express.js` · `REST API` · `JWT` · `Authentication` · `Authorization`
+
+### Databases & ORM
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/img/logo.svg" width="38" height="38" alt="Prisma" />
+</p>
+
+`MongoDB` · `Mongoose` · `PostgreSQL` · `Prisma ORM`
 
 ### Tools & Services
 
-`Git` • `GitHub` • `Firebase` • `JWT` • `REST API` • `Stripe` • `VS Code` • `Figma`
+`Git` · `GitHub` · `Firebase` · `Stripe` · `Figma` · `VS Code`
 
 ---
 
-## 🚀 What I Build
+## Development Focus
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ⚡ Modern Frontend Applications                            │
-│  🎨 Responsive & Accessible UI                              │
-│  🔌 REST API Integration                                    │
-│  🔐 Authentication & Authorization                          │
-│  📊 Dashboard & Admin Panels                                │
-│  🛒 E-commerce Applications                                 │
-│  🧩 Reusable Component Systems                              │
-│  🚀 Full-Stack Web Applications                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Frontend
+├── React.js
+├── Next.js
+├── TypeScript
+├── Redux Toolkit
+├── RTK Query
+└── Responsive UI
+
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+├── Authentication
+└── Authorization
+
+Database
+├── MongoDB
+├── PostgreSQL
+├── Mongoose
+└── Prisma
+
+Engineering
+├── Git & GitHub
+├── API Integration
+├── Component Architecture
+├── Database Design
+└── Scalable Application Structure
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Development
+
+I work on applications involving:
+
+* Business management systems
+* Admin dashboards
+* E-commerce platforms
+* Authentication systems
+* Customer and member portals
+* REST API integrations
+* Database-driven applications
+* Real-time application features
+* Payment integrations
+* Content and management platforms
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib689&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajib689&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib689&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib689&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib689&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib689&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sajib689&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## Connect
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=sajib689&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+<a href="https://github.com/sajib689">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-</div>
+<a href="https://linkedin.com/in/md-sajib-hossen-35b352248">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<a href="https://twitter.com/sajibbabu4">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-  <a href="https://linkedin.com/in/md-sajib-hossen-35b352248">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/sajib689">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://twitter.com/sajibbabu4">
-    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-
-  <a href="https://fb.com/100008519531471">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-  <a href="mailto:sajibbabu751@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sajibbabu751%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="mailto:sajibbabu751@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -158,10 +190,8 @@ Building modern, responsive, and scalable web applications with clean and mainta
 
 <div align="center">
 
-### 💡 Let's Build Something Great Together
+### Full Stack Developer
 
-**Open to interesting projects, collaborations, and remote opportunities.**
-
-⭐ If you find my work useful, consider giving my repositories a star!
+`React` · `Next.js` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
 
 </div>
