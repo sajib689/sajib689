@@ -153,17 +153,6 @@ I work on applications involving:
 </div>
 
 
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sajib689&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
